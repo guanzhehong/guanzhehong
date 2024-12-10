@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/propLogic_transformers
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
-venue: 'Submitted to ICLR.'
+venue: 'arXiv Preprint'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/abs/2411.04105v3)'
 ---
 
