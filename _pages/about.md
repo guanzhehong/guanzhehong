@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student in the School of ECE at Purdue University, advised by Dr. Stanley Chan.
+I am a final-year PhD student in the School of ECE at Purdue University, advised by Dr. Stanley Chan. I obtained my BASc in Computer Engineering and Mathematics at the University of Toronto.
 
 My research interests primarily revolve around developing a **mechanistic** understanding of deep neural networks, towards the goals of improving the **generalization** and **interpretability** of these models, and bridging the gap between theory and practice. 
 
