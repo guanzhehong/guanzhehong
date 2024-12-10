@@ -3,7 +3,7 @@ title: "How Transformers Reason: A Case Study on a Synthetic Propositional Logic
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-propLogic_workshop
-excerpt: 'Guanzhe Hong, Nishanth Dikkala, Enming Luo, Cyrus Rashtchian, Xin Wang, Rina Panigrahy'
+excerpt: '**Guanzhe Hong**, Nishanth Dikkala, Enming Luo, Cyrus Rashtchian, Xin Wang, Rina Panigrahy'
 date: 2024-10-21
 venue: 'NeurIPS MATH-AI Workshop'
 paperurl: 'https://openreview.net/forum?id=kXXsqGiVnl'
