@@ -2,7 +2,7 @@
 title: "How Transformers Solve Propositional Logic: A Mechanistic Analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/propLogic_transformers
+permalink: /publication/2024-12-10-propLogic_transformers
 excerpt: 'Guanzhe Hong, Nishanth Dikkala, Enming Luo, Cyrus Rashtchian, Xin Wang, Rina Panigrahy'
 date: 2024
 venue: 'arXiv Preprint'
