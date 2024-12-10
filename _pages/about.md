@@ -15,6 +15,6 @@ In particular, my recent efforts revolve around studying how LLMs reason. In [a 
 
 News
 ======
-(May 2024) Started student researcher position at Google Research with Rina Panigrahy.
+(May 2024) Started student researcher position at Google Research with Dr. Rina Panigrahy.
 
-(Oct 2022) Started student researcher position at Google Research with Yin Cui and Enming Luo.
+(Oct 2022) Started student researcher position at Google Research with Dr. Yin Cui and Dr. Enming Luo.
