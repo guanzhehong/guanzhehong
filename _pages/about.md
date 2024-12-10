@@ -15,6 +15,6 @@ In particular, my recent efforts have been focused on studying how large languag
 
 News
 ======
-(May 2024) Started student researcher position at Google Research with Dr. Rina Panigrahy.
+(June 2024) Started student researcher position at Google Research with Dr. Rina Panigrahy.
 
 (Oct 2022) Started student researcher position at Google Research with Dr. Yin Cui and Dr. Enming Luo.
