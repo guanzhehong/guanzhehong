@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-12-10-propLogic_transformers
 excerpt: 'Guanzhe Hong, Nishanth Dikkala, Enming Luo, Cyrus Rashtchian, Xin Wang, Rina Panigrahy'
-date: 2024
+date: 2024-11-04
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2411.04105v3'
 ---
