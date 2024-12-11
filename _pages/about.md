@@ -11,9 +11,9 @@ I am a final-year PhD student in the School of ECE at Purdue University, advised
 
 My research interests primarily revolve around developing a **mechanistic** understanding of deep neural networks, towards the goals of improving the **generalization** and **interpretability** of these models, and bridging the gap between theory and practice. 
 
-In particular, my recent efforts have been focused on studying **how large language models (LLMs) reason**. In [a recent work](https://arxiv.org/abs/2411.04105), we studied how tiny transformers and LLMs (Mistral-7B and Gemma-2-9B) solve simple propositional logic problems. At a high level, we were able to show the existence of, and characterize the _circuits_ employed by LLMs in the wild for solving a nontrivial logic problem which demands latent multi-hop reasoning. We found these circuits to be surprisingly _localized_ and _human-interpretable_, which points to the possibilities of _debugging_ and _steering_ the LLMs' reasoning actions in the future.
+In particular, my recent efforts have been focused on studying **how large language models (LLMs) reason**. In [a recent work](https://arxiv.org/abs/2411.04105), we studied how tiny transformers and LLMs (Mistral-7B and Gemma-2-9B) solve simple propositional logic problems. At a high level, we were able to localize human-interpretable _circuits_ employed by LLMs in the wild for performing latent multi-hop reasoning. This points to the possibilities of _debugging_ and _steering_ the LLMs' reasoning actions in the future.
 
-I have also developed _mathematical_ theories which connect generalization performance of DNNs with their **feature-learning** process, in the settings of [transfer learning](https://arxiv.org/abs/2410.23129), and [feature-based distillation](https://arxiv.org/abs/2103.07600).
+I have also developed _mathematical_ theories which connect _generalization_ performance of DNNs with their **feature-learning** process, in the settings of [transfer learning](https://arxiv.org/abs/2410.23129), and [feature-based distillation](https://arxiv.org/abs/2103.07600).
 
 News
 ======
