@@ -13,7 +13,7 @@ My research interests primarily revolve around developing a **mechanistic** unde
 
 In particular, my recent efforts have been focused on studying **how large language models (LLMs) reason**. In [a recent work](https://arxiv.org/abs/2411.04105), we studied how tiny transformers and LLMs (Mistral-7B and Gemma-2-9B) solve simple propositional logic problems. At a high level, we were able to show the existence of, and characterize the _circuits_ employed by LLMs in the wild for solving a nontrivial logic problem which demands latent multi-hop reasoning. We found these circuits to be surprisingly _localized_ and _human-interpretable_, which points to the possibilities of _debugging_ and _steering_ the LLMs' reasoning actions in the future.
 
-I have also developed _mathematical_ theories which connect generalization performance of DNNs with their _feature-learning_ process, in the settings of [transfer learning](https://arxiv.org/abs/2410.23129), and [feature-based distillation](https://arxiv.org/abs/2103.07600).
+I have also developed _mathematical_ theories which connect generalization performance of DNNs with their **feature-learning** process, in the settings of [transfer learning](https://arxiv.org/abs/2410.23129), and [feature-based distillation](https://arxiv.org/abs/2103.07600).
 
 News
 ======
