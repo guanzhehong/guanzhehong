@@ -1,5 +1,5 @@
 ---
-title: "How Transformers Solve Propositional Logic: A Mechanistic Analysis"
+title: "How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-10-propLogic_transformers
